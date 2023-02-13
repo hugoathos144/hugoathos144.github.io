@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: grey;
+    border: 3px solid rgb(182, 181, 181);
+    border-radius: 15px;
+}
+
+#logo {
+    color: white;
+    text-decoration: none;
+    margin-left: 35px;
+}
